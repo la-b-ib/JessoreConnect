@@ -143,7 +143,7 @@ const App: React.FC = () => {
         return (
             <div className="flex flex-col items-center justify-center p-10 text-center animate-fadeIn min-h-[70vh]">
                 <img 
-                    src="https://raw.githubusercontent.com/la-b-ib/JessoreConnect/main/assets/squirrel.svg" 
+                    src="https://raw.githubusercontent.com/la-b-ib/JessoreConnect/main/jessore-connect/assets/squirrel.svg" 
                     className="w-56 h-56 mb-8 opacity-90 drop-shadow-2xl" 
                     alt="Quota Reached" 
                 />
