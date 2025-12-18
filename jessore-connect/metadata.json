@@ -1,9 +1,0 @@
-{
-  "name": "Jessore Connect",
-  "description": "A comprehensive guide to Jashore (Jessore) City with AI-powered insights and a community platform for sharing reviews, blogs, and ratings.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
